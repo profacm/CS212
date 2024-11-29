@@ -1,1 +1,1 @@
-"Sanmpl Text"
+"Sample Text 1"
